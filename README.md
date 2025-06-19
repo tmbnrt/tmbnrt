@@ -39,8 +39,8 @@ Next to my professional projects in the industry, you’ll find my learning proj
 - Authored technical articles on software tools featured in industry magazines, such as 'Digital Engineering' and 'Konstruktionspraxis'
 
 ### 🎓 Education
- M.Sc. in Computational Mechanics (Engineering Informatics, focus on numerical methods and software development)
- B.Sc. in Civil Engineering (focus on structural engineering and engineering informatics)
+ - M.Sc. in Computational Mechanics (Engineering Informatics, focus on numerical methods and software development)
+ - B.Sc. in Civil Engineering (focus on structural engineering and engineering informatics)
 
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://de.linkedin.com/in/tim-beinert-8970351a7)
