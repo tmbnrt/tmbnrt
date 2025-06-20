@@ -45,6 +45,3 @@ Next to my professional projects in the industry, you’ll find my learning proj
 
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://de.linkedin.com/in/tim-beinert-8970351a7)
-
-### 🚀 Coding Captain’s Log
-![Meine GitHub-Stats](https://github-readme-stats.vercel.app/api?username=tmbnrt&show_icons=true&count_private=true&theme=radical)
