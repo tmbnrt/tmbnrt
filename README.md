@@ -1,6 +1,6 @@
 ## Hi there 👋, welcome to my GitHub profile!
 
-I'm Tim Beinert, a passionate software developer and engineer from Germany. My journey began during my engineering studies, when I stepped into the development of simulation software.
+I'm Tim Beinert, a passionate software developer with engineering background from Germany. My journey began during my engineering studies, when I stepped into the development of simulation software.
 Since then, I've been focused on digitizing industrial engineering processes through custom-built software solutions.
 
 What drives me? The ever-evolving nature of software development — it constantly challenges me to learn and grow.
@@ -8,7 +8,8 @@ I still love building engineering structures, but I might just love building sof
 
 ### 🔍 About me
 Since 2017, I've been on a mission to optimize industrial engineering through custom software.
-Along the way, I've deepened my knowledge in software engineering and development — always learning, always building.
+My background in numerics and engineering has consistently equipped me to tackle complex problems with structure, develop efficient algorithms, and contribute across disciplines — well beyond just writing code.
+Along that way, I've deepened my knowledge in software engineering and development — always learning, always building.
 
 Next to my professional projects in the industry, you’ll find my learning projects here, including engineering-focused software from my academic background.
 
@@ -34,13 +35,16 @@ Next to my professional projects in the industry, you’ll find my learning proj
 🌪️ Weather APIs
 
 ### 🏆 Achievements & Highlights
-- Developed simulation pre- and post-processing software that reduced manual engineering tasks by 60 %
+- Developed simulation pre- and post-processing software that reduced manual engineering tasks by 70 %
 - Created in-house tools to automate structural analysis workflows, increasing team efficiency, minimizing errors and enhancing quality of customer communication
 - Authored technical articles on software tools featured in industry magazines, such as 'Digital Engineering' and 'Konstruktionspraxis'
 
 ### 🎓 Education
- - M.Sc. in Computational Mechanics (Engineering Informatics, focus on numerical methods and software development)
+ - M.Sc. in Computational Mechanics (Engineering informatics with focus on numerical methods and software development)
  - B.Sc. in Civil Engineering (focus on structural engineering and engineering informatics)
 
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://de.linkedin.com/in/tim-beinert-8970351a7)
+
+### 🚀 Coding Captain’s Log
+![Meine GitHub-Stats](https://github-readme-stats.vercel.app/api?username=tmbnrt&show_icons=true&count_private=true&theme=radical)
