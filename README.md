@@ -3,8 +3,8 @@
 I'm Tim Beinert, a passionate software developer with engineering background from Germany. My journey began during my engineering studies, when I stepped into the world of simulation software development.
 Since then, I've been focused on digitizing industrial engineering processes through custom-built software solutions.
 
-What drives me? The ever-evolving nature of software development — it constantly challenges me to learn and grow.
-I still love building engineering structures, but I might just love building software even more. 😉
+What drives me? The ever-evolving nature of software development — it continuously pushes me to learn and grow.
+While I’ll always value classical engineering, I might just be even more in love with building software. 😉
 
 ### 🔍 About me
 Since 2017, I've been on a mission to optimize industrial engineering through custom software.
