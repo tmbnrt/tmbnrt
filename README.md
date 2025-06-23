@@ -15,7 +15,7 @@ Next to my professional projects in the industry, you’ll find my learning proj
 
 ### 💬 Ask me about:
 - Workflow automatization in industrial environments
-- Simulation software (pre- and post-processing), mechanical algorithms and computational geometry
+- Simulation software (pre- and post-processing), physical algorithms and computational geometry
 
 ### ⚙️ Techstack:
 💻 C#/.Net
