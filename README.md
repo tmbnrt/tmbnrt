@@ -1,6 +1,6 @@
 ## Hi there 👋, welcome to my GitHub profile!
 
-I'm Tim Beinert, a passionate software developer with engineering background from Germany. My journey began during my engineering studies, when I stepped into the world of simulation software development.
+I'm Tim Beinert, a passionate software developer with simulation engineering background from Germany. My journey began during my engineering studies, when I stepped into the world of simulation software development.
 Since then, I've been focused on digitizing industrial engineering processes through custom-built software solutions.
 
 What drives me? The ever-evolving nature of software development — it continuously pushes me to learn and grow.
