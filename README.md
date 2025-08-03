@@ -16,10 +16,11 @@ Next to my professional projects in the industry, you’ll find my learning proj
 ### 💬 Ask me about:
 - Workflow automatization in industrial environments
 - Simulation software (pre- and post-processing), physical algorithms and computational geometry
+- Development of scientific data pipelines
 
 ### ⚙️ Techstack:
 💻 C#/.Net
-🧱 WPF, XAML, Win Forms
+🧱 WPF, XAML, WinForms
 🛠️ C++
 🐍 Python
 💾 SQLite
@@ -28,7 +29,7 @@ Next to my professional projects in the industry, you’ll find my learning proj
 
 ### 🔧 Currently diving into:
 🎛️ Qt using C++
-🐘 postgreSQL
+🐘 PostGIS in postgreSQL
 🗺️ GIS using arcGIS
 🖼️ SFML using C++
 🤖 Machine Learning with Python
