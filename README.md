@@ -11,7 +11,7 @@ Since 2017, I've been on a mission to optimize industrial engineering through cu
 My background in numerics and engineering has consistently equipped me to tackle complex problems with structure, develop efficient algorithms, and contribute across disciplines — well beyond just writing code.
 Along that way, I've deepened my knowledge in software engineering and development — always learning, always building.
 
-Next to my professional projects in the industry, you’ll find my learning projects here, including engineering-focused software from my academic background.
+Next to my professional projects in the industry, you’ll find my personal projects here, including engineering-focused software from my academic background.
 
 ### 💬 Ask me about:
 - Workflow automatization in industrial environments
@@ -22,18 +22,19 @@ Next to my professional projects in the industry, you’ll find my learning proj
 💻 C#/.Net
 🧱 WPF, XAML, WinForms
 🛠️ C++
-🐍 Python
-💾 SQLite
 📉 Fortran
-📜 TCL
+🐍 Python
+🅰️ Angular, TypeScript
+💾 SQLite
+💾 PostgreSQL
+📜 TCL, APDL
 
-### 🔧 Currently diving into:
+### 🔧 Currently working on:
 🎛️ Qt using C++
 🐘 PostGIS in postgreSQL
-🗺️ GIS using arcGIS
+🗺️ The ArcGIS Runtime SDK
 🖼️ SFML using C++
 🤖 Machine Learning with Python
-🌪️ Weather APIs
 
 ### 🏆 Achievements & Highlights
 - Developed simulation pre- and post-processing software that reduced manual engineering tasks by 70 %
