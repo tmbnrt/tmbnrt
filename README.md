@@ -26,7 +26,7 @@ My background in civil engineering and numerics has consistently equipped me to 
 - Developed simulation pre- and post-processing software that reduced manual engineering tasks by 70 %
 - Created in-house tools to automate structural analysis workflows, increasing team efficiency, minimizing errors and enhancing quality of customer communication
 - Authored technical articles on software tools featured in industry magazines, such as 'Digital Engineering' and 'Konstruktionspraxis'
-- Built SurfScout, a full‑stack GIS system integrating spatio‑temporal wind‑field processing, PostGIS pipelines, MapLibre visualization and predictive analytics — fully deployed on VPS infrastructure: www.surfscout.app  
+- Built SurfScout, a full‑stack GIS system integrating spatio‑temporal wind‑field processing, MapLibre visualization and predictive analytics — fully deployed on VPS infrastructure: www.surfscout.app  
 
 ### 🎓 Education
  - M.Sc. in Computational Mechanics (Engineering informatics with focus on numerical methods and software development)
