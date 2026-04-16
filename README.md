@@ -1,23 +1,23 @@
 ## Hi there 👋, welcome to my GitHub profile!
 
 I'm Tim Beinert, a passionate software systems engineer with simulation engineering background from Germany. My journey began during my engineering studies, when I stepped into the world of simulation software development.
-Since then, I've been focused on digitizing engineering processes through custom-built software solutions.
-Along the way, I’ve also grown a solid interest in data architecture — shaping clear data flows and practical structures that help complex engineering software stay understandable and easy to extend.
+Since then, I've been focused on digitizing processes through custom-built software solutions.
+Along the way, I’ve also grown a solid interest in data architecture — shaping clear data flows and practical structures that help complex software stay understandable and easy to extend.
 
 What drives me? The ever-evolving nature of software development — it continuously pushes me to learn and grow.
 While I’ll always value classical engineering, I might even enjoy building software a little more. 😉
 
 ### 🔍 About me
-My background in civil engineering and numerics has consistently equipped me to tackle complex problems with structure, develop efficient algorithms, and contribute across disciplines — well beyond just writing code. Over the years, I’ve worked extensively with FEM and GIS technologies, and I’m particularly interested in bringing both worlds together in future digital‑twin solutions.
+My background in civil engineering and simulation has consistently equipped me to tackle complex problems with structure, develop efficient algorithms, and contribute across disciplines — well beyond just writing code.
 
 ### ⚙️ Techstack:
-💻 C#/.Net, ASP.NET
+💻 C#/.Net, ASP.NET Core, Entity Framework Core
 🅰️ Angular, TypeScript
 🧱 WPF, WinForms
 🛠️ C++
 🐍 Python
 📉 Fortran
-🌐 Hosting: Docker, nginx, VPS
+🌐 Docker, nginx, VPS
 💾 PostgreSQL, SQLite, PostGIS
 🗺️ MapLibre GL JS, ArcGIS Runtime SDK, NetTopologySuite
 📜 TCL, APDL
